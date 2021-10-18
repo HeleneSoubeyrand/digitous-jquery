@@ -1,3 +1,3 @@
 $(function(){
-    $('#text').css('display', 'contents');
+    $('#text').css('display', 'block');
 })
